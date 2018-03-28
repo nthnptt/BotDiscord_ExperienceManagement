@@ -1,0 +1,18 @@
+db :
+ engine : postgres
+ hostname : <hostname>
+ database : <db>
+ login :  <login>
+ passwd : <password>
+lvl_scale :
+  - lvl : 1
+    xp :  100
+  - lvl : 2
+    xp :  300
+  - lvl : 3
+    xp :  600
+  - lvl : 4
+    xp :  1000
+experience_gain : 10
+token:    <discord_token>
+cmd_char: '!'
